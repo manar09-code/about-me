@@ -4,7 +4,7 @@ I’m an IT student from Tunisia with big dreams in the world of tech and comput
 
 💻 A Little About Me
 
-Web Development: I enjoy creating websites with HTML, CSS, CSS Grid, and Bootstrap.
+Web Development: I enjoy creating websites with HTML, CSS ,Java, JavaScript and some PHP.
 
 Programming: I’m diving into Java and working to expand my coding skills.
 
